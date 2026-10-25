@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "PhD"
+title                    : "Mengzhen Arthur Zhang, PhD"
 title_separator          : ","
 name                     : &name "Mengzhen Arthur Zhang"
 description              : &description "Postdoctoral Research Fellow at the University of Edinburgh" # Update this with a general description of your site
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Mengzhen Arthur Zhang"
   pronouns         : "She/Her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "A systems neuroscience postdoc interested in the circuit mechanisms of internal representations, multisensory integration, and dreaming."
   location         : "Edinburgh, Scotland"
   employer         : "University of Edinburgh"
   uri              : "https://edwebprofiles.ed.ac.uk/profile/mengzhen-arthur-zhang"
