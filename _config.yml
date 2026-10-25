@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Mengzhen Arthur Zhang, PhD"
+title                    : "PhD"
 title_separator          : ","
 name                     : &name "Mengzhen Arthur Zhang"
 description              : &description "Postdoctoral Research Fellow at the University of Edinburgh" # Update this with a general description of your site
@@ -28,19 +28,19 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : "Edinburgh, Scotland"
   employer         : "University of Edinburgh"
-  uri              : "a-zmz.github.io"
-  email            : "m.a.zhang@ed.ac.uk" 
+  uri              : "https://edwebprofiles.ed.ac.uk/profile/mengzhen-arthur-zhang"
+  email            : "m.a.zhang@ed.ac.uk"
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=Ww6JgSsAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : #"https://orcid.org/yourorcidurl"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -50,13 +50,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "a-zmz"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -65,7 +65,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "a-zmz"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
